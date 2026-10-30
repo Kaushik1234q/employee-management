@@ -17,7 +17,6 @@ npm install
 npm run dev
 ```
 
-Then open http://localhost:5173.
 
 ## Build
 
@@ -36,9 +35,3 @@ src/
   App.css
 ```
 
-## Ideas for later
-
-- Connect to a real API (Node + MongoDB or Express + Postgres)
-- Login and roles
-- Pagination and sorting
-- Export to CSV
